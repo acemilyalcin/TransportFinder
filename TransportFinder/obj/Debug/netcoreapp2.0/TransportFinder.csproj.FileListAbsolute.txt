@@ -1,0 +1,11 @@
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\bin\Debug\netcoreapp2.0\TransportFinder.deps.json
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\bin\Debug\netcoreapp2.0\TransportFinder.runtimeconfig.json
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\bin\Debug\netcoreapp2.0\TransportFinder.runtimeconfig.dev.json
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\bin\Debug\netcoreapp2.0\TransportFinder.dll
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\bin\Debug\netcoreapp2.0\TransportFinder.pdb
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\obj\Debug\netcoreapp2.0\TransportFinder.csprojAssemblyReference.cache
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\obj\Debug\netcoreapp2.0\TransportFinder.csproj.CoreCompileInputs.cache
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\obj\Debug\netcoreapp2.0\TransportFinder.AssemblyInfoInputs.cache
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\obj\Debug\netcoreapp2.0\TransportFinder.AssemblyInfo.cs
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\obj\Debug\netcoreapp2.0\TransportFinder.dll
+c:\users\cemil.yalcin\source\repos\TransportFinder\TransportFinder\obj\Debug\netcoreapp2.0\TransportFinder.pdb
